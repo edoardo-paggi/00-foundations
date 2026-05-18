@@ -3,12 +3,8 @@
 ## Topics
 
 - Structure of a C program
-- ```c
-    main() function
-    ```
-- ```c
-    printf()
-    ```
+- `main() function`
+- `printf()`
 - Escape sequences
 - Basic compilation with GCC
 - Simple arithmetic operations
