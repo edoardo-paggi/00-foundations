@@ -3,18 +3,22 @@
 ## Topics
 
 - Structure of a C program
-- main() function
-- printf()
+- ```c
+    main() function
+    ```
+- ```c
+    printf()
+    ```
 - Escape sequences
 - Basic compilation with GCC
 - Simple arithmetic operations
 
 ## Contents
 
-- examples    => examples rewritten from the book
-- exercises   => chapter exercises
-- experiments => personal tests and explorations
-- notes.md:   => study notes and observations
+- examples    → examples rewritten from the book
+- exercises   → chapter exercises
+- experiments → personal tests and explorations
+- notes.md    → study notes and observations
 
 ## Status
 
