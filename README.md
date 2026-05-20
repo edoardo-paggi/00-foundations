@@ -19,26 +19,41 @@ The goal is to build a strong understanding of programming fundamentals, develop
 
 ## Structure
 
+## Structure
+
 - `c-programming/`
   - C language fundamentals
-  - Exercises and notes
-  - Small projects
+  - Exercises and problem solving
+  - Memory management and pointers
+  - Data structures and low-level concepts
 
-- `linux-wsl/`
-  - Linux basics
-  - Shell commands
-  - File system and processes
+- `debugging-and-tooling/`
+  - Compilation and linking
+  - GCC and build tools
+  - Debugging with GDB
+  - Development workflow and tooling
 
-- `git-github/`
-  - Git workflow
-  - Version control
+- `git-and-github/`
+  - Git fundamentals
+  - Version control workflow
   - Repository management
+  - Commit conventions and project organization
 
-- `computer-science-basics/`
-  - Memory
-  - Compilation
-  - Operating system concepts
-  - General CS notes
+- `linux-and-shell/`
+  - Linux fundamentals
+  - Shell commands and scripting
+  - File system navigation
+  - Processes and system interaction
+
+- `mini-projects/`
+  - Small command-line applications
+  - Practice projects
+  - Experimental code and implementations
+
+- `notes/`
+  - General Computer Science notes
+  - Learning summaries
+  - Concepts and references
 
 ## Status
 
