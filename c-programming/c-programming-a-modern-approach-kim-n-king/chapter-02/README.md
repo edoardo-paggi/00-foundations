@@ -4,6 +4,14 @@ This chapter introduces the basic structure of C programs,
 including variables, assignments, input handling, constants,
 identifiers, comments, and general code layout conventions.
 
+## Progress
+
+- [ ] Read chapter
+- [ ] Rewrite examples
+- [ ] Complete exercises
+- [ ] Run experiments
+- [ ] Review notes
+
 ## Topics
 
 - Writing a simple program
@@ -32,11 +40,5 @@ identifiers, comments, and general code layout conventions.
 - `notes.md`
   - Notes, summaries, and observations
 
-## Progress
 
-- [ ] Read chapter
-- [ ] Rewrite examples
-- [ ] Complete exercises
-- [ ] Run experiments
-- [ ] Review notes
 
