@@ -1,13 +1,16 @@
-# Notes - Chapter 01
+# Notes - Chapter 02
 
 ## Summary
 
 Short overview of the chapter and its main concepts.
 
+---
+
 ## Key Concepts
 
 ### Concept Name
 
+Short explanation.
 
 
 ## Syntax
