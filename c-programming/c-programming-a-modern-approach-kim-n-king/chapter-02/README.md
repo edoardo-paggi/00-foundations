@@ -6,7 +6,7 @@ identifiers, comments, and general code layout conventions.
 
 ## Progress
 
-- [ ] Read chapter
+- [x] Read chapter
 - [ ] Rewrite examples
 - [ ] Complete exercises
 - [ ] Run experiments
@@ -39,6 +39,3 @@ identifiers, comments, and general code layout conventions.
 
 - `notes.md`
   - Notes, summaries, and observations
-
-
-
