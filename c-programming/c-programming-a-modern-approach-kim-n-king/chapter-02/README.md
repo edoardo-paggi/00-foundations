@@ -7,7 +7,7 @@ identifiers, comments, and general code layout conventions.
 ## Progress
 
 - [x] Read chapter
-- [ ] Rewrite examples
+- [x] Rewrite examples
 - [ ] Complete exercises
 - [ ] Run experiments
 - [ ] Review notes
