@@ -15,7 +15,10 @@
 
 int main(void) {
 
-    printf("Hello, ex-01\n");
+    printf("      *  \n");
+    printf("    *    \n");
+    printf("  *      \n");
+    printf("* * * * *\n");
 
     return 0;
 }
