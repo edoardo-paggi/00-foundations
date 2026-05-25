@@ -7,9 +7,18 @@
 
 #include <stdio.h>
 
+#define PI 3.141592653f // float => only 3.141593
+
 int main(void) {
 
-    printf("Hello, ex-03\n");
+    float radius, volume;
+
+    printf("Enter the radius of the sphere in meters: ");
+    scanf("%f", &radius);
+
+    volume = (4.0f / 3.0f) * PI * (radius * radius * radius);
+
+    printf("Volume of the sphere = %f\n", volume);
 
     return 0;
 }
