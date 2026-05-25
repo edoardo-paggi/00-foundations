@@ -4,8 +4,8 @@
  * Task: write a program that prompts the user to enter an amount in dollars and
          cents and then prints it with a 5% tax surcharge.
 
-   Enter an amount: 100.00
-   With tax added: $105.00
+         Enter an amount: 100.00
+         With tax added: $105.00
 
  */
 

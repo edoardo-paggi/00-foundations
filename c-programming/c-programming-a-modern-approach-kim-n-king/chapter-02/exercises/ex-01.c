@@ -4,10 +4,10 @@
  * Task: write a program that uses printf to print the following image to the
          screen.
 
-         *
-       *
-     *
-   * * * * *
+               *
+             *
+           *
+         * * * * *
 
  */
 
