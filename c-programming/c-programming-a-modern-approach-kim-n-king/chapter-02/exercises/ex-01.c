@@ -2,7 +2,7 @@
  * Name: ex-01.c
  * Author: Edoardo Paggi
  * Task: write a program that uses printf to print the following image to the
- screen.
+         screen.
 
          *
        *
