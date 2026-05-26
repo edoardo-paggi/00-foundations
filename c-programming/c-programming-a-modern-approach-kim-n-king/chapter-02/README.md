@@ -9,7 +9,6 @@ identifiers, comments, and general code layout conventions.
 - [x] Read chapter
 - [x] Rewrite examples
 - [x] Complete exercises
-- [ ] Review notes
 
 ## Topics
 
