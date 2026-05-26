@@ -11,8 +11,3 @@ along with its main strengths, limitations, and areas of application.
 
 - History of C
 - Strengths and weaknesses of C
-
-## Structure
-
-- `notes.md`
-  - Notes, summaries, and observations
