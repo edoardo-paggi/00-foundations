@@ -9,7 +9,6 @@ identifiers, comments, and general code layout conventions.
 - [x] Read chapter
 - [x] Rewrite examples
 - [x] Complete exercises
-- [ ] Run experiments
 - [ ] Review notes
 
 ## Topics
@@ -30,9 +29,6 @@ identifiers, comments, and general code layout conventions.
 
 - `exercises/`
   - Solutions to chapter exercises
-
-- `experiments/`
-  - Additional tests and small explorations
 
 - `build/`
   - Compiled files and executables
