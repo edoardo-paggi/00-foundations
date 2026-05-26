@@ -31,6 +31,3 @@ identifiers, comments, and general code layout conventions.
 
 - `build/`
   - Compiled files and executables
-
-- `notes.md`
-  - Notes, summaries, and observations
