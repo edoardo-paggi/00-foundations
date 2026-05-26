@@ -6,7 +6,6 @@ along with its main strengths, limitations, and areas of application.
 ## Progress
 
 - [x] Read chapter
-- [x] Review notes
 
 ## Topics
 
