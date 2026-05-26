@@ -8,7 +8,7 @@ identifiers, comments, and general code layout conventions.
 
 - [x] Read chapter
 - [x] Rewrite examples
-- [ ] Complete exercises
+- [x] Complete exercises
 - [ ] Run experiments
 - [ ] Review notes
 
