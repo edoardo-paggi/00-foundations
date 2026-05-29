@@ -1,6 +1,4 @@
-# Chapter 03 — C Foundamentals
-
-### Chapter 3 – Formatted Input/Output
+# Chapter 3 – Formatted Input/Output
 
 This chapter introduces formatted input and output in C through the `printf`
 and `scanf` functions. It explains how conversion specifications such as `%d`,
