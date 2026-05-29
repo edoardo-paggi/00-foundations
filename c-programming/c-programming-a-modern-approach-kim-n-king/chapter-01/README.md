@@ -1,4 +1,4 @@
-# Chapter 01 — Introducing C
+# Chapter 1 — Introducing C
 
 This chapter introduces the history of the C programming language,
 along with its main strengths, limitations, and areas of application.
