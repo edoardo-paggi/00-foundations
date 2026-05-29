@@ -1,4 +1,4 @@
-# Chapter 02 — C Foundamentals
+# Chapter 2 — C Foundamentals
 
 This chapter introduces the basic structure of C programs,
 including variables, assignments, input handling, constants,
