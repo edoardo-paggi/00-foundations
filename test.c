@@ -2,7 +2,7 @@
 
 int main(void) {
 
-    printf("%-6.2g", .0000009979);
+    printf("%d\n", 9 % -7);
 
     return 0;
 }
