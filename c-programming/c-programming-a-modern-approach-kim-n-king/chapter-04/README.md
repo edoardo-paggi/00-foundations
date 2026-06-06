@@ -17,7 +17,7 @@ program, particularly when performing assignments, updates, or function calls.
 
 - [x] Read chapter
 - [x] Rewrite examples
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Topics
 
