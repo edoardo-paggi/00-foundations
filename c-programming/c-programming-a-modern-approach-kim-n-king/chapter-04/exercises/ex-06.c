@@ -2,7 +2,9 @@
  * Name: ex-05.c
  * Author: Edoardo Paggi
  * Task: European countries use a 13-digit code called the European Article 
-         Number (EAN) instead of the 12-digit Universal Product Code (UPC) used in North America. Each EAN ends with a check digit, just like UPC codes. The technique for calculating the check digit is similar:
+         Number (EAN) instead of the 12-digit Universal Product Code (UPC) used 
+         in North America. Each EAN ends with a check digit, just like UPC 
+         codes. The technique for calculating the check digit is similar:
 
          Add the second, fourth, sixth, eighth, tenth, and twelfth digits.
          Add the first, third, fifth, seventh, ninth, and eleventh digits.
@@ -10,7 +12,9 @@
          Calculate the remainder obtained when the modified total is divided by 10.
          Subtract the remainder from 9.
 
-         Your task is to modify the upc.c program to calculate the check digit of an EAN code. The user will enter the first 12 digits of the EAN code as a single number:
+         Your task is to modify the upc.c program to calculate the check digit 
+         of an EAN code. The user will enter the first 12 digits of the EAN 
+         code as a single number:
          
          Enter the first 12 digits of an EAN: 869148426000
          Check digit: 8
