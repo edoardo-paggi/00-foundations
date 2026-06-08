@@ -13,7 +13,7 @@ program execution efficiently.
 ## Progress
 
 - [x] Read chapter
-- [ ] Rewrite examples
+- [x] Rewrite examples
 - [ ] Complete exercises
 
 ## Topics
