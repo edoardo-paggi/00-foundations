@@ -14,7 +14,7 @@ program execution efficiently.
 
 - [x] Read chapter
 - [x] Rewrite examples
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Topics
 
