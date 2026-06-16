@@ -11,11 +11,11 @@ statement but no action needs to be performed.
 
 ## Progress
 
-- [ ] Read chapter
+- [x] Read chapter
 - [ ] Rewrite examples
 - [ ] Complete exercises
 
-## Topics
+## Topics 
 
 - The `while` Statement
 - The `do` Statement 
