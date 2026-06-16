@@ -13,12 +13,12 @@
 
 int main(void) {
 
-    int num, den, m, n, rest, gcf;
+    int num, den, m, n, rest, gcd;
 
     printf("Enter a fraction: ");
     scanf("%d / %d", &num, &den);
 
-    // Euclid's Algorithm
+    // Euclid's Algorithm to calculate GCF
     if (den > num) {
         int temp = num;
         m = den;
@@ -27,7 +27,7 @@ int main(void) {
 
     for (;;) {
         if (n == 0) {
-            gcf = m;
+            gcd = m;
             break;
         } else
             rest = m % n;
@@ -37,8 +37,8 @@ int main(void) {
     }
 
     // Solve
-    num /= gcf;
-    den /= gcf;
+    num /= gcd;
+    den /= gcd;
 
     printf("In lowest terms: %d/%d\n", num, den);
 
