@@ -13,7 +13,7 @@ statement but no action needs to be performed.
 
 - [x] Read chapter
 - [x] Rewrite examples
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Topics 
 
