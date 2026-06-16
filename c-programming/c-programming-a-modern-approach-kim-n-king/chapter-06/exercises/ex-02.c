@@ -13,7 +13,7 @@
 
 int main(void) {
 
-    int m, n, gcf, rest;
+    int m, n, gcd, rest;
 
     printf("Enter two integers: ");
     scanf("%d %d", &m, &n);
@@ -28,7 +28,7 @@ int main(void) {
     // Euclid's Algorithm
     for (;;) {
         if (n == 0) {
-            gcf = m;
+            gcd = m;
             break;
         } else
             rest = m % n;
@@ -37,7 +37,7 @@ int main(void) {
         n = rest;
     }
 
-    printf("Greatest common divisor: %d\n", gcf);
+    printf("Greatest common divisor: %d\n", gcd);
 
     return 0;
 }
