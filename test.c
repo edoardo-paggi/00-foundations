@@ -26,5 +26,7 @@ int main(void) {
     printf("long double: %zu\n", sizeof(long double) * 8);
     printf("char: %zu\n", sizeof(char) * 8);
 
+    printf("\n Escpae char 'A': \x41 \n");
+
     return 0;
 }
