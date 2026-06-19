@@ -22,7 +22,6 @@ int main(void) {
     scanf("%d:%d %c", &hours, &minutes, &ante_post); 
 
     ante_post = toupper(ante_post);
-    printf("%c\n", ante_post);
 
     printf("Equivalent 24-hour time: ");
 
@@ -34,7 +33,6 @@ int main(void) {
             hours += 12;
     }
         
-    
     printf("%.2d:%.2d\n", hours, minutes);
 
     return 0;
