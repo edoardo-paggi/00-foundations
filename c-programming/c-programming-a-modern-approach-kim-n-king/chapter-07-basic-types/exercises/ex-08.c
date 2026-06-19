@@ -31,7 +31,7 @@ int main(void) {
     printf("Enter a 12-hour time: ");
     scanf("%d:%d %c", &hours, &minutes, &ante_post); 
 
-    toupper(ante_post);
+    ante_post = toupper(ante_post);
 
     printf("Time: ");
     if (ante_post == 'A')
