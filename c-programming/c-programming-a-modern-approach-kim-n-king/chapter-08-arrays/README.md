@@ -10,7 +10,7 @@ at runtime rather than at compile time.
 
 ## Progress
 
-- [ ] Read chapter
+- [x] Read chapter
 - [ ] Rewrite examples
 - [ ] Complete exercises
 
