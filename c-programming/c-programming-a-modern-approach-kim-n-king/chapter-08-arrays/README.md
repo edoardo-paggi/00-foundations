@@ -12,7 +12,7 @@ at runtime rather than at compile time.
 
 - [x] Read chapter
 - [x] Rewrite examples
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Topics 
 
