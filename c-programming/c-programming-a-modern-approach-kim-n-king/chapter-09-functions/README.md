@@ -13,7 +13,7 @@ smaller subproblems.
 
 ## Progress
 
-- [ ] Read chapter
+- [x] Read chapter
 - [ ] Rewrite examples
 - [ ] Complete exercises
 
