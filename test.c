@@ -1,5 +1,6 @@
 #include <limits.h>
 #include <stdio.h>
+#include <stdbool.h>
 
 int main(void) {
 
@@ -25,6 +26,7 @@ int main(void) {
     printf("double: %zu\n", sizeof(double) * 8);
     printf("long double: %zu\n", sizeof(long double) * 8);
     printf("char: %zu\n", sizeof(char) * 8);
+    printf("bool: %zu\n", sizeof(bool) * 8);
 
     printf("\n Escpae char 'A': \x41 \n");
 
