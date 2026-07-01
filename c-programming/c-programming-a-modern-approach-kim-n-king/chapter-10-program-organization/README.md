@@ -11,7 +11,7 @@ maintainable, and well-structured programs.
 
 ## Progress
 
-- [ ] Read chapter
+- [x] Read chapter
 - [ ] Rewrite examples
 - [ ] Complete exercises
 
