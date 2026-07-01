@@ -1,4 +1,4 @@
-# Chapter 9 – Program Organization
+# Chapter 10 – Program Organization
 
 This chapter explores how C programs are organized and how variables and 
 functions interact within different parts of a program. It introduces local and 

@@ -1,4 +1,4 @@
-# Chapter 8 – Functions
+# Chapter 9 – Functions
 
 This chapter introduces functions, one of the fundamental building blocks of C 
 programs. Functions allow code to be organized into reusable, modular units, 
