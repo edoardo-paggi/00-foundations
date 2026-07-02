@@ -12,7 +12,7 @@ can return pointers to enable more flexible program design.
 
 ## Progress
 
-- [ ] Read chapter
+- [x] Read chapter
 - [ ] Rewrite examples
 - [ ] Complete exercises
 
