@@ -13,7 +13,7 @@ maintainable, and well-structured programs.
 
 - [x] Read chapter
 - [x] Rewrite examples
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Topics 
 
