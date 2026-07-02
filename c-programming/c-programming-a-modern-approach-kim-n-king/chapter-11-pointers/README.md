@@ -13,7 +13,7 @@ can return pointers to enable more flexible program design.
 ## Progress
 
 - [x] Read chapter
-- [ ] Rewrite examples
+- [x] Rewrite examples
 - [ ] Complete exercises
 
 ## Topics 
