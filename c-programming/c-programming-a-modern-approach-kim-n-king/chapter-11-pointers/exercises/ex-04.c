@@ -2,7 +2,10 @@
  * Name: ex-04.c
  * Author: Edoardo Paggi
  * Task: modify the poker.c program by moving all external variables into the 
-         main program and modifying the functions so they communicate through argument passing. The analyze_hand function needs to modify the straight, flush, four, three, and pairs variables, so it must be passed pointers to them.
+         main program and modifying the functions so they communicate through 
+         argument passing. The analyze_hand function needs to modify the 
+         straight, flush, four, three, and pairs variables, so it must be 
+         passed pointers to them.
 */ 
 
 #include <stdbool.h>
