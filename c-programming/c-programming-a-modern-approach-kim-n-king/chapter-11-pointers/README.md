@@ -14,7 +14,7 @@ can return pointers to enable more flexible program design.
 
 - [x] Read chapter
 - [x] Rewrite examples
-- [ ] Complete exercises
+- [x] Complete exercises
 
 ## Topics 
 
